@@ -1,6 +1,6 @@
 # Machine Learning and Deep Learning Exercises
 
-Welcome to the Machine Learning and Deep Learning practice exercises! This repository contains weekly exercises designed to help you and your friends practice various classification algorithms using TensorFlow and deep learning techniques. Each week focuses on a different algorithm, including regularization and optimization techniques, and culminates in Natural Language Processing (NLP) tasks.
+Welcome to the Machine Learning and Deep Learning practice exercises! This repository contains weekly exercises designed to help you practice various classification algorithms using TensorFlow and deep learning techniques. Each week focuses on a different algorithm, including regularization and optimization techniques, and culminates in Natural Language Processing (NLP) tasks.
 
 ## Weekly Exercises
 
